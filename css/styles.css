@@ -1,0 +1,67 @@
+#athens{
+  color: black;
+  font-family: Georgia;
+  font-size: 30px;
+}
+#outside{
+  color: #6666ff;
+  font-family: Georgia;
+  font-size: 50px;
+}
+#quote{
+  color: black;
+  font-family: Georgia;
+  font-size: 20px;
+}
+.cafe{
+  display:block;
+  height: 100px;
+  background-color:#8080ff;
+  font-size:50px;
+  text-align:center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.bar1{
+  display:block;
+  height: 100px;
+  background-color:#9999ff;
+  font-size:50px;
+  text-align:center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.club{
+  display:block;
+  height: 100px;
+  background-color:#b3b3ff;
+  font-size:50px;
+  text-align:center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.ff{
+  display:block;
+  height: 100px;
+  background-color:#ccccff;
+  font-size:50px;
+  text-align:center;
+  text-decoration: none;
+  padding-top: 25px;
+}
+.hp{
+  color: #6666ff;
+  font-family: Georgia;
+  font-size:20px;
+}
+.phot{
+  width: 300px;
+}
+.uc{
+  color:orange;
+  font-size: 50px;
+}
+.uc2{
+  color:orange;
+  font-size:40px;
+}
